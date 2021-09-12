@@ -11,3 +11,7 @@ Swift입문 주말반
     override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
         self.view.endEditing(true)
     }
+    
+----------
+# Zoom
+https://us02web.zoom.us/j/6962261155?pwd=WWZsSDFQZ3ZsU2tndzg4Z0FybGZpUT09
